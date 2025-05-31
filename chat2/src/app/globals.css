@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+/* Add these to your global CSS file */
+.text-neon-green {
+    color: #39ff14; /* Neon green color */
+  }
+  
+  .text-neon-pink {
+    color: #ff69b4; /* Neon pink color */
+  }
+  
+  .bg-neon-green {
+    background-color: #39ff14; /* Neon green color */
+  }
+  
+  .bg-neon-pink {
+    background-color: #ff69b4; /* Neon pink color */
+  }
+  
+  .bg-dark-gray {
+    background-color: #1e1e1e; /* Dark gray color */
+  }
+  
+  .hover\:bg-neon-pink-dark:hover {
+    background-color: #ff1493; /* Darker neon pink color */
+  }
+  
+  .glow {
+    text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 15px #39ff14, 0 0 20px #ff69b4, 0 0 35px #ff69b4, 0 0 40px #ff69b4, 0 0 50px #ff69b4;
+  }
+  
+  .shadow-neon {
+    box-shadow: 0 0 10px #39ff14, 0 0 20px #39ff14, 0 0 30px #39ff14;
+  }
+  
